@@ -1,0 +1,5 @@
+class Login:
+    def show(print):
+         print("show")
+l=Login()
+l.show()
